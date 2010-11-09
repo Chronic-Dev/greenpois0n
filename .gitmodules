@@ -1,0 +1,12 @@
+[submodule "anthrax"]
+	path = anthrax
+	url = git@github.com:Chronic-Dev/anthrax.git
+[submodule "cyanide"]
+	path = cyanide
+	url = git@github.com:Chronic-Dev/cyanide.git
+[submodule "libirecovery"]
+	path = libirecovery
+	url = git@github.com:Chronic-Dev/libirecovery.git
+[submodule "syringe"]
+	path = syringe
+	url = git@github.com:Chronic-Dev/syringe.git
