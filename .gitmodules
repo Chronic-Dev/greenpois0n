@@ -10,3 +10,6 @@
 [submodule "syringe"]
 	path = syringe
 	url = git@github.com:Chronic-Dev/syringe.git
+[submodule "doctors"]
+	path = doctors
+	url = git@github.com:Chronic-Dev/doctors.git
